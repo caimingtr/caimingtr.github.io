@@ -3,11 +3,11 @@
   <title>Bei</title>
   
   <subtitle>一个不起眼的网站</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://caimingtr.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://caimingtr.github.io/"/>
   <updated>1985-10-26T08:15:00.000Z</updated>
-  <id>http://example.com/</id>
+  <id>http://caimingtr.github.io/</id>
   
   <author>
     <name>Bei</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/post/undefined.html"/>
-    <id>http://example.com/post/undefined.html</id>
+    <link href="http://caimingtr.github.io/post/undefined.html"/>
+    <id>http://caimingtr.github.io/post/undefined.html</id>
     <published>2022-08-18T17:46:07.086Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
