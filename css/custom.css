@@ -1,3 +1,4 @@
+/*文章标题*/
 #article-container h1:before,
 #article-container h2:before,
 #article-container h3:before,
@@ -145,6 +146,8 @@ hr:before {
 #article-container h6:hover {
     padding-left: 1.2rem
 }
+
+/*隐藏Aplayer的全局吸底音乐标签*/
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
   left: -66px !important;
   /* 默认情况下缩进左侧66px，只留一点箭头部分 */
